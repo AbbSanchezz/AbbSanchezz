@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-- 📫 How to reach me **Sanchezdeniseabril@gmail.com**
+- 📫 How to reach me **abbsanchezz@gmail.com**
 
 - ⚡ Fun fact **I hate ; but I love CSS (sometimes)**
 
