@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abb Sanchez</h1>
 <h3 align="center">A passionate frontend student from Argentina</h3>
 
-- 🌱 I’m currently learning HTML, CSS and Javascript **In a course from JA Argentina**
+- 🌱 I’m currently learning HTML, CSS and Javascript 
 
 - 💬 Ask me about **HTML and CSS**
 
